@@ -18,21 +18,21 @@ CLI personnalisée pour créer rapidement des projets full-stack avec ton stack 
 ## 🔧 Installation
 
 ```bash
-npm install
+npm i -g dualsync
 # ou
-bun install
+bun i -g dualsync
 ```
 
 ## 🚀 Utilisation
 
 ```bash
-smash new <nom-du-projet>
+dual new <nom-du-projet>
 ```
 
 ### Exemple
 
 ```bash
-smash new mon-app
+dual new mon-app
 ```
 
 La CLI te guidera à travers les choix :
